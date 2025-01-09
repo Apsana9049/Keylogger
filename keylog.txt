@@ -1,0 +1,367 @@
+2025-01-09 16:33:49,966: Key pressed: y
+2025-01-09 16:33:50,277: Key pressed: o
+2025-01-09 16:33:50,573: Key pressed: u
+2025-01-09 16:33:50,903: Key pressed: t
+2025-01-09 16:33:53,325: Key pressed: u
+2025-01-09 16:33:53,612: Key pressed: b
+2025-01-09 16:33:54,389: Key pressed: e
+2025-01-09 16:33:54,852: Key pressed: .
+2025-01-09 16:33:55,188: Key pressed: c
+2025-01-09 16:33:55,468: Key pressed: o
+2025-01-09 16:33:55,717: Key pressed: m
+2025-01-09 16:34:23,036: Special key pressed: Key.ctrl_l
+2025-01-09 16:34:23,429: Key pressed: 
+2025-01-09 16:34:24,445: Special key pressed: Key.backspace
+2025-01-09 16:34:36,244: Special key pressed: Key.ctrl_l
+2025-01-09 16:34:36,669: Key pressed: 
+2025-01-09 16:34:37,484: Special key pressed: Key.backspace
+2025-01-09 16:35:57,766: Key pressed: f
+2025-01-09 16:35:57,932: Key pressed: a
+2025-01-09 16:35:58,148: Key pressed: c
+2025-01-09 16:35:58,372: Key pressed: e
+2025-01-09 16:35:59,628: Special key pressed: Key.right
+2025-01-09 16:36:01,124: Special key pressed: Key.enter
+2025-01-09 16:36:43,116: Special key pressed: Key.shift
+2025-01-09 16:36:43,332: Key pressed: A
+2025-01-09 16:36:43,764: Key pressed: p
+2025-01-09 16:36:43,980: Key pressed: s
+2025-01-09 16:36:44,180: Key pressed: a
+2025-01-09 16:36:44,396: Key pressed: n
+2025-01-09 16:36:44,548: Key pressed: a
+2025-01-09 16:36:45,524: Key pressed: d
+2025-01-09 16:36:45,796: Key pressed: a
+2025-01-09 16:36:46,140: Key pressed: n
+2025-01-09 16:36:46,396: Key pressed: g
+2025-01-09 16:36:46,668: Key pressed: e
+2025-01-09 16:36:49,020: Key pressed: 1
+2025-01-09 16:36:49,276: Key pressed: 2
+2025-01-09 16:36:49,484: Key pressed: 3
+2025-01-09 16:38:30,749: Key pressed: s
+2025-01-09 16:38:30,884: Key pressed: s
+2025-01-09 16:38:31,188: Key pressed: 2
+2025-01-09 16:38:33,363: Special key pressed: Key.backspace
+2025-01-09 16:38:33,523: Special key pressed: Key.backspace
+2025-01-09 16:38:33,651: Special key pressed: Key.backspace
+2025-01-09 16:38:33,755: Special key pressed: Key.backspace
+2025-01-09 16:38:34,508: Key pressed: c
+2025-01-09 16:38:35,011: Key pressed: o
+2025-01-09 16:38:35,379: Key pressed: d
+2025-01-09 16:38:35,515: Key pressed: e
+2025-01-09 16:39:26,227: Key pressed: p
+2025-01-09 16:39:26,675: Key pressed: r
+2025-01-09 16:39:26,835: Key pressed: a
+2025-01-09 16:39:27,019: Key pressed: g
+2025-01-09 16:39:27,203: Key pressed: a
+2025-01-09 16:39:27,347: Key pressed: t
+2025-01-09 16:39:28,387: Key pressed: i
+2025-01-09 16:39:30,619: Key pressed: b
+2025-01-09 16:39:30,812: Key pressed: h
+2025-01-09 16:39:30,923: Key pressed: a
+2025-01-09 16:39:31,099: Key pressed: g
+2025-01-09 16:39:31,235: Key pressed: a
+2025-01-09 16:39:31,396: Key pressed: t
+2025-01-09 16:40:08,283: Key pressed: s
+2025-01-09 16:40:08,427: Key pressed: s
+2025-01-09 16:40:08,835: Key pressed: 2
+2025-01-09 16:40:09,507: Key pressed: k
+2025-01-09 16:40:10,003: Key pressed: e
+2025-01-09 16:40:10,315: Key pressed: y
+2025-01-09 16:40:11,298: Special key pressed: Key.enter
+2025-01-09 16:40:30,516: Key pressed: g
+2025-01-09 16:40:30,819: Key pressed: i
+2025-01-09 16:40:31,044: Key pressed: t
+2025-01-09 16:40:31,394: Key pressed: h
+2025-01-09 16:40:31,571: Key pressed: u
+2025-01-09 16:40:32,851: Special key pressed: Key.down
+2025-01-09 16:40:33,130: Special key pressed: Key.enter
+2025-01-09 16:40:51,955: Special key pressed: Key.shift
+2025-01-09 16:40:52,139: Key pressed: A
+2025-01-09 16:40:52,627: Key pressed: p
+2025-01-09 16:40:52,811: Key pressed: s
+2025-01-09 16:40:52,964: Key pressed: a
+2025-01-09 16:40:53,243: Key pressed: n
+2025-01-09 16:40:53,419: Key pressed: a
+2025-01-09 16:40:53,627: Key pressed: d
+2025-01-09 16:40:53,819: Key pressed: a
+2025-01-09 16:40:54,148: Key pressed: n
+2025-01-09 16:40:54,371: Key pressed: g
+2025-01-09 16:40:54,643: Key pressed: e
+2025-01-09 16:40:54,947: Key pressed: 2
+2025-01-09 16:40:55,539: Special key pressed: Key.shift
+2025-01-09 16:40:55,818: Special key pressed: Key.caps_lock
+2025-01-09 16:40:55,835: Key pressed: @
+2025-01-09 16:41:16,306: Special key pressed: Key.shift_r
+2025-01-09 16:41:16,635: Key pressed: K
+2025-01-09 16:41:17,003: Key pressed: e
+2025-01-09 16:41:17,347: Key pressed: y
+2025-01-09 16:41:18,107: Key pressed: l
+2025-01-09 16:41:18,339: Key pressed: o
+2025-01-09 16:41:18,667: Key pressed: p
+2025-01-09 16:41:18,843: Key pressed: p
+2025-01-09 16:41:19,322: Special key pressed: Key.backspace
+2025-01-09 16:41:19,482: Special key pressed: Key.backspace
+2025-01-09 16:41:19,946: Special key pressed: Key.backspace
+2025-01-09 16:41:20,106: Special key pressed: Key.backspace
+2025-01-09 16:41:20,242: Special key pressed: Key.backspace
+2025-01-09 16:41:20,370: Special key pressed: Key.backspace
+2025-01-09 16:41:20,507: Special key pressed: Key.backspace
+2025-01-09 16:41:21,258: Special key pressed: Key.caps_lock
+2025-01-09 16:41:21,986: Special key pressed: Key.shift_r
+2025-01-09 16:41:22,259: Key pressed: K
+2025-01-09 16:41:23,091: Key pressed: e
+2025-01-09 16:41:23,683: Key pressed: y
+2025-01-09 16:41:24,203: Key pressed: l
+2025-01-09 16:41:24,387: Key pressed: o
+2025-01-09 16:41:24,691: Key pressed: g
+2025-01-09 16:41:24,819: Key pressed: g
+2025-01-09 16:41:25,027: Key pressed: e
+2025-01-09 16:41:25,227: Key pressed: r
+2025-01-09 16:42:13,282: Special key pressed: Key.shift
+2025-01-09 16:42:13,780: Special key pressed: Key.shift
+2025-01-09 16:42:13,811: Special key pressed: Key.shift
+2025-01-09 16:42:13,842: Special key pressed: Key.shift
+2025-01-09 16:42:13,888: Special key pressed: Key.shift
+2025-01-09 16:42:13,920: Special key pressed: Key.shift
+2025-01-09 16:42:13,951: Special key pressed: Key.shift
+2025-01-09 16:42:13,983: Special key pressed: Key.shift
+2025-01-09 16:42:14,014: Special key pressed: Key.shift
+2025-01-09 16:42:14,045: Special key pressed: Key.shift
+2025-01-09 16:42:14,076: Special key pressed: Key.shift
+2025-01-09 16:42:14,108: Special key pressed: Key.shift
+2025-01-09 16:42:14,140: Special key pressed: Key.shift
+2025-01-09 16:42:14,186: Special key pressed: Key.shift
+2025-01-09 16:42:14,217: Special key pressed: Key.shift
+2025-01-09 16:42:14,248: Special key pressed: Key.shift
+2025-01-09 16:42:14,280: Special key pressed: Key.shift
+2025-01-09 16:42:14,311: Special key pressed: Key.shift
+2025-01-09 16:42:14,342: Special key pressed: Key.shift
+2025-01-09 16:42:14,373: Special key pressed: Key.shift
+2025-01-09 16:42:14,405: Special key pressed: Key.shift
+2025-01-09 16:42:14,436: Special key pressed: Key.shift
+2025-01-09 16:42:14,483: Special key pressed: Key.shift
+2025-01-09 16:42:14,514: Special key pressed: Key.shift
+2025-01-09 16:42:14,545: Special key pressed: Key.shift
+2025-01-09 16:42:14,577: Special key pressed: Key.shift
+2025-01-09 16:42:14,608: Special key pressed: Key.shift
+2025-01-09 16:42:14,639: Special key pressed: Key.shift
+2025-01-09 16:42:14,670: Special key pressed: Key.shift
+2025-01-09 16:42:14,701: Special key pressed: Key.shift
+2025-01-09 16:42:14,733: Special key pressed: Key.shift
+2025-01-09 16:42:14,779: Special key pressed: Key.shift
+2025-01-09 16:42:14,811: Special key pressed: Key.shift
+2025-01-09 16:42:14,843: Special key pressed: Key.shift
+2025-01-09 16:42:14,873: Special key pressed: Key.shift
+2025-01-09 16:42:14,905: Special key pressed: Key.shift
+2025-01-09 16:42:14,936: Special key pressed: Key.shift
+2025-01-09 16:42:14,967: Special key pressed: Key.shift
+2025-01-09 16:42:14,998: Special key pressed: Key.shift
+2025-01-09 16:42:15,030: Special key pressed: Key.shift
+2025-01-09 16:42:15,077: Special key pressed: Key.shift
+2025-01-09 16:42:15,108: Special key pressed: Key.shift
+2025-01-09 16:42:15,139: Special key pressed: Key.shift
+2025-01-09 16:42:15,170: Special key pressed: Key.shift
+2025-01-09 16:42:15,201: Special key pressed: Key.shift
+2025-01-09 16:42:15,232: Special key pressed: Key.shift
+2025-01-09 16:42:15,264: Special key pressed: Key.shift
+2025-01-09 16:42:15,295: Special key pressed: Key.shift
+2025-01-09 16:42:15,326: Special key pressed: Key.shift
+2025-01-09 16:42:15,373: Special key pressed: Key.shift
+2025-01-09 16:42:15,405: Special key pressed: Key.shift
+2025-01-09 16:42:15,436: Special key pressed: Key.shift
+2025-01-09 16:42:15,467: Special key pressed: Key.shift
+2025-01-09 16:42:15,499: Special key pressed: Key.shift
+2025-01-09 16:42:15,529: Special key pressed: Key.shift
+2025-01-09 16:42:15,561: Special key pressed: Key.shift
+2025-01-09 16:42:15,592: Special key pressed: Key.shift
+2025-01-09 16:42:15,623: Special key pressed: Key.shift
+2025-01-09 16:42:15,670: Special key pressed: Key.shift
+2025-01-09 16:42:15,701: Special key pressed: Key.shift
+2025-01-09 16:42:15,733: Special key pressed: Key.shift
+2025-01-09 16:42:15,764: Special key pressed: Key.shift
+2025-01-09 16:42:15,795: Special key pressed: Key.shift
+2025-01-09 16:42:15,827: Special key pressed: Key.shift
+2025-01-09 16:42:15,857: Special key pressed: Key.shift
+2025-01-09 16:42:15,889: Special key pressed: Key.shift
+2025-01-09 16:42:15,920: Special key pressed: Key.shift
+2025-01-09 16:42:15,967: Special key pressed: Key.shift
+2025-01-09 16:42:15,998: Special key pressed: Key.shift
+2025-01-09 16:42:16,029: Special key pressed: Key.shift
+2025-01-09 16:42:16,061: Special key pressed: Key.shift
+2025-01-09 16:42:16,092: Special key pressed: Key.shift
+2025-01-09 16:42:16,123: Special key pressed: Key.shift
+2025-01-09 16:42:16,154: Special key pressed: Key.shift
+2025-01-09 16:42:16,186: Special key pressed: Key.shift
+2025-01-09 16:42:16,217: Special key pressed: Key.shift
+2025-01-09 16:42:16,264: Special key pressed: Key.shift
+2025-01-09 16:42:16,295: Special key pressed: Key.shift
+2025-01-09 16:42:16,327: Special key pressed: Key.shift
+2025-01-09 16:42:16,357: Special key pressed: Key.shift
+2025-01-09 16:42:16,389: Special key pressed: Key.shift
+2025-01-09 16:42:16,420: Special key pressed: Key.shift
+2025-01-09 16:42:16,451: Special key pressed: Key.shift
+2025-01-09 16:42:16,483: Special key pressed: Key.shift
+2025-01-09 16:42:16,514: Special key pressed: Key.shift
+2025-01-09 16:42:16,561: Special key pressed: Key.shift
+2025-01-09 16:42:16,594: Special key pressed: Key.shift
+2025-01-09 16:42:16,623: Special key pressed: Key.shift
+2025-01-09 16:42:16,654: Special key pressed: Key.shift
+2025-01-09 16:42:16,685: Special key pressed: Key.shift
+2025-01-09 16:42:16,717: Special key pressed: Key.shift
+2025-01-09 16:42:16,748: Special key pressed: Key.shift
+2025-01-09 16:42:16,779: Special key pressed: Key.shift
+2025-01-09 16:42:16,811: Special key pressed: Key.shift
+2025-01-09 16:42:16,858: Special key pressed: Key.shift
+2025-01-09 16:42:16,889: Special key pressed: Key.shift
+2025-01-09 16:42:16,920: Special key pressed: Key.shift
+2025-01-09 16:42:16,951: Special key pressed: Key.shift
+2025-01-09 16:42:16,983: Special key pressed: Key.shift
+2025-01-09 16:42:17,014: Special key pressed: Key.shift
+2025-01-09 16:42:17,046: Special key pressed: Key.shift
+2025-01-09 16:42:17,076: Special key pressed: Key.shift
+2025-01-09 16:42:17,108: Special key pressed: Key.shift
+2025-01-09 16:42:17,154: Special key pressed: Key.shift
+2025-01-09 16:42:17,187: Special key pressed: Key.shift
+2025-01-09 16:42:17,217: Special key pressed: Key.shift
+2025-01-09 16:42:17,248: Special key pressed: Key.shift
+2025-01-09 16:42:17,279: Special key pressed: Key.shift
+2025-01-09 16:42:17,311: Special key pressed: Key.shift
+2025-01-09 16:42:17,342: Special key pressed: Key.shift
+2025-01-09 16:42:17,373: Special key pressed: Key.shift
+2025-01-09 16:42:17,420: Special key pressed: Key.shift
+2025-01-09 16:42:17,451: Special key pressed: Key.shift
+2025-01-09 16:42:17,483: Special key pressed: Key.shift
+2025-01-09 16:42:17,514: Special key pressed: Key.shift
+2025-01-09 16:42:17,545: Special key pressed: Key.shift
+2025-01-09 16:42:17,576: Special key pressed: Key.shift
+2025-01-09 16:42:17,608: Special key pressed: Key.shift
+2025-01-09 16:42:17,639: Special key pressed: Key.shift
+2025-01-09 16:42:17,670: Special key pressed: Key.shift
+2025-01-09 16:42:17,717: Special key pressed: Key.shift
+2025-01-09 16:42:17,748: Special key pressed: Key.shift
+2025-01-09 16:42:17,779: Special key pressed: Key.shift
+2025-01-09 16:42:17,811: Special key pressed: Key.shift
+2025-01-09 16:42:17,842: Special key pressed: Key.shift
+2025-01-09 16:42:17,873: Special key pressed: Key.shift
+2025-01-09 16:42:17,904: Special key pressed: Key.shift
+2025-01-09 16:42:17,936: Special key pressed: Key.shift
+2025-01-09 16:42:17,967: Special key pressed: Key.shift
+2025-01-09 16:42:18,014: Special key pressed: Key.shift
+2025-01-09 16:42:18,045: Special key pressed: Key.shift
+2025-01-09 16:42:18,076: Special key pressed: Key.shift
+2025-01-09 16:42:18,108: Special key pressed: Key.shift
+2025-01-09 16:42:18,139: Special key pressed: Key.shift
+2025-01-09 16:42:18,171: Special key pressed: Key.shift
+2025-01-09 16:42:18,201: Special key pressed: Key.shift
+2025-01-09 16:42:18,232: Special key pressed: Key.shift
+2025-01-09 16:42:18,264: Special key pressed: Key.shift
+2025-01-09 16:42:18,311: Special key pressed: Key.shift
+2025-01-09 16:42:18,342: Special key pressed: Key.shift
+2025-01-09 16:42:18,373: Special key pressed: Key.shift
+2025-01-09 16:42:18,404: Special key pressed: Key.shift
+2025-01-09 16:42:18,435: Special key pressed: Key.shift
+2025-01-09 16:42:18,467: Special key pressed: Key.shift
+2025-01-09 16:42:18,498: Special key pressed: Key.shift
+2025-01-09 16:42:18,529: Special key pressed: Key.shift
+2025-01-09 16:42:18,560: Special key pressed: Key.shift
+2025-01-09 16:42:18,607: Special key pressed: Key.shift
+2025-01-09 16:42:18,639: Special key pressed: Key.shift
+2025-01-09 16:42:18,670: Special key pressed: Key.shift
+2025-01-09 16:42:18,701: Special key pressed: Key.shift
+2025-01-09 16:42:18,733: Special key pressed: Key.shift
+2025-01-09 16:42:18,763: Special key pressed: Key.shift
+2025-01-09 16:42:18,795: Special key pressed: Key.shift
+2025-01-09 16:42:18,827: Special key pressed: Key.shift
+2025-01-09 16:42:18,857: Special key pressed: Key.shift
+2025-01-09 16:42:18,904: Special key pressed: Key.shift
+2025-01-09 16:42:18,935: Special key pressed: Key.shift
+2025-01-09 16:42:18,967: Special key pressed: Key.shift
+2025-01-09 16:42:18,998: Special key pressed: Key.shift
+2025-01-09 16:42:19,029: Special key pressed: Key.shift
+2025-01-09 16:42:19,061: Special key pressed: Key.shift
+2025-01-09 16:42:19,091: Special key pressed: Key.shift
+2025-01-09 16:42:19,122: Special key pressed: Key.shift
+2025-01-09 16:42:19,154: Special key pressed: Key.shift
+2025-01-09 16:42:19,201: Special key pressed: Key.shift
+2025-01-09 16:42:19,232: Special key pressed: Key.shift
+2025-01-09 16:42:19,263: Special key pressed: Key.shift
+2025-01-09 16:42:19,295: Special key pressed: Key.shift
+2025-01-09 16:42:19,326: Special key pressed: Key.shift
+2025-01-09 16:42:19,357: Special key pressed: Key.shift
+2025-01-09 16:42:19,390: Special key pressed: Key.shift
+2025-01-09 16:42:19,420: Special key pressed: Key.shift
+2025-01-09 16:42:19,451: Special key pressed: Key.shift
+2025-01-09 16:42:19,498: Special key pressed: Key.shift
+2025-01-09 16:42:19,529: Special key pressed: Key.shift
+2025-01-09 16:42:19,561: Special key pressed: Key.shift
+2025-01-09 16:42:19,592: Special key pressed: Key.shift
+2025-01-09 16:42:19,623: Special key pressed: Key.shift
+2025-01-09 16:42:19,654: Special key pressed: Key.shift
+2025-01-09 16:42:19,685: Special key pressed: Key.shift
+2025-01-09 16:42:19,717: Special key pressed: Key.shift
+2025-01-09 16:42:19,748: Special key pressed: Key.shift
+2025-01-09 16:42:19,795: Special key pressed: Key.shift
+2025-01-09 16:42:19,826: Special key pressed: Key.shift
+2025-01-09 16:42:19,858: Special key pressed: Key.shift
+2025-01-09 16:42:19,888: Special key pressed: Key.shift
+2025-01-09 16:42:19,920: Special key pressed: Key.shift
+2025-01-09 16:42:19,951: Special key pressed: Key.shift
+2025-01-09 16:42:19,982: Special key pressed: Key.shift
+2025-01-09 16:42:20,013: Special key pressed: Key.shift
+2025-01-09 16:42:20,045: Special key pressed: Key.shift
+2025-01-09 16:42:20,077: Special key pressed: Key.shift
+2025-01-09 16:42:20,124: Special key pressed: Key.shift
+2025-01-09 16:42:20,156: Special key pressed: Key.shift
+2025-01-09 16:42:20,187: Special key pressed: Key.shift
+2025-01-09 16:42:20,218: Special key pressed: Key.shift
+2025-01-09 16:42:20,250: Special key pressed: Key.shift
+2025-01-09 16:42:20,281: Special key pressed: Key.shift
+2025-01-09 16:42:20,312: Special key pressed: Key.shift
+2025-01-09 16:42:24,962: Special key pressed: Key.shift
+2025-01-09 16:42:25,473: Special key pressed: Key.shift
+2025-01-09 16:42:25,504: Special key pressed: Key.shift
+2025-01-09 16:42:25,535: Special key pressed: Key.shift
+2025-01-09 16:42:25,566: Special key pressed: Key.shift
+2025-01-09 16:42:25,598: Special key pressed: Key.shift
+2025-01-09 16:42:25,629: Special key pressed: Key.shift
+2025-01-09 16:42:25,660: Special key pressed: Key.shift
+2025-01-09 16:42:25,707: Special key pressed: Key.shift
+2025-01-09 16:42:25,739: Special key pressed: Key.shift
+2025-01-09 16:42:25,770: Special key pressed: Key.shift
+2025-01-09 16:42:25,801: Special key pressed: Key.shift
+2025-01-09 16:42:25,832: Special key pressed: Key.shift
+2025-01-09 16:42:25,864: Special key pressed: Key.shift
+2025-01-09 16:42:25,895: Special key pressed: Key.shift
+2025-01-09 16:42:25,926: Special key pressed: Key.shift
+2025-01-09 16:42:25,957: Special key pressed: Key.shift
+2025-01-09 16:42:26,005: Special key pressed: Key.shift
+2025-01-09 16:42:26,036: Special key pressed: Key.shift
+2025-01-09 16:42:26,067: Special key pressed: Key.shift
+2025-01-09 16:42:26,099: Special key pressed: Key.shift
+2025-01-09 16:42:26,130: Special key pressed: Key.shift
+2025-01-09 16:42:26,161: Special key pressed: Key.shift
+2025-01-09 16:42:26,192: Special key pressed: Key.shift
+2025-01-09 16:42:26,224: Special key pressed: Key.shift
+2025-01-09 16:42:26,255: Special key pressed: Key.shift
+2025-01-09 16:42:26,302: Special key pressed: Key.shift
+2025-01-09 16:42:26,333: Special key pressed: Key.shift
+2025-01-09 16:42:26,364: Special key pressed: Key.shift
+2025-01-09 16:42:26,396: Special key pressed: Key.shift
+2025-01-09 16:42:26,427: Special key pressed: Key.shift
+2025-01-09 16:42:26,459: Special key pressed: Key.shift
+2025-01-09 16:42:26,489: Special key pressed: Key.shift
+2025-01-09 16:42:26,521: Special key pressed: Key.shift
+2025-01-09 16:42:26,552: Special key pressed: Key.shift
+2025-01-09 16:42:26,599: Special key pressed: Key.shift
+2025-01-09 16:42:26,630: Special key pressed: Key.shift
+2025-01-09 16:42:26,661: Special key pressed: Key.shift
+2025-01-09 16:42:26,692: Special key pressed: Key.shift
+2025-01-09 16:42:26,724: Special key pressed: Key.shift
+2025-01-09 16:42:26,755: Special key pressed: Key.shift
+2025-01-09 16:42:26,786: Special key pressed: Key.shift
+2025-01-09 16:42:26,817: Special key pressed: Key.shift
+2025-01-09 16:42:26,849: Special key pressed: Key.shift
+2025-01-09 16:42:26,896: Special key pressed: Key.shift
+2025-01-09 16:42:26,927: Special key pressed: Key.shift
+2025-01-09 16:42:26,958: Special key pressed: Key.shift
+2025-01-09 16:42:26,989: Special key pressed: Key.shift
+2025-01-09 16:42:27,020: Special key pressed: Key.shift
